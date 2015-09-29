@@ -1,0 +1,28 @@
+body {
+	background-image: url("media/cloud.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70em;
+
+    font-family: 'Roboto', sans-serif;
+}
+.text-style {
+	text-align: center;
+	margin: 0em;
+	color: #002DFF;
+}
+.text-h1{
+	text-align: center;
+	margin-top: 2em;
+	color: #002DFF;
+}
+.list-class {
+	text-align: center;
+	list-style-position: inside;
+	color: #002DFF;
+}
+
+#audio-div {
+    display: table;
+    margin: 0 auto;
+    padding-top: 3em;

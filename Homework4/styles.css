@@ -1,0 +1,43 @@
+#video {
+	position: absolute;
+	width:100%;
+	height:auto;
+	z-index: -1;
+}
+
+.greenButton {
+	position: absolute;
+	background-color:#6CC67F;
+	border: 1px solid;
+	border-radius:28px;
+	border-color: black;
+	display:inline-block;
+	cursor:pointer;
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+	color:#000000;
+	font-weight: bold:;
+	font-size:20px;
+	padding:16px 31px;
+	margin-left: -80px;
+	left:50%;
+	top:50%;
+}
+
+.pinkPill {
+	position: absolute;
+	background-color:#FE867A;
+	border: 1px solid;
+	border-radius:28px;
+	border-color: black;
+	display:inline-block;
+	cursor: default;
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+	color:#000000;
+	font-weight: bold:;
+	font-size:20px;
+	padding:16px 31px;
+}
